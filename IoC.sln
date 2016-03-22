@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Pandora.IoC", "Pandora.IoC\Pandora.IoC.xproj", "{C5149616-E933-458B-88F3-115CB843A273}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5149616-E933-458B-88F3-115CB843A273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5149616-E933-458B-88F3-115CB843A273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5149616-E933-458B-88F3-115CB843A273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5149616-E933-458B-88F3-115CB843A273}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

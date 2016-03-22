@@ -1,5 +1,6 @@
 {
   "projects": [
+    "Pandora.IoC",
     "Pandora.IoC.WebJobs"
   ],
   "sdk": {

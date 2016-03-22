@@ -1,0 +1,16 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "The Pandora.IoC Library provides basic IoC interfaces for general tasks that otherwise lack them.",
+  "authors": [ "PandoraJewelry" ],
+  "tags": [ "IoC" ],
+  "projectUrl": "https://github.com/PandoraJewelry/IoC",
+  "licenseUrl": "https://github.com/PandoraJewelry/IoC/blob/master/LICENSE",
+
+  "frameworks": {
+    "net46": {
+      "frameworkAssemblies": {
+        "System.Configuration": "4.0.0.0"
+      }
+    }
+  }
+}

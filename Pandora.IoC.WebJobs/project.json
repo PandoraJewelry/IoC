@@ -1,10 +1,11 @@
 ﻿{
-  "version": "1.0.0-*",
-  "description": "The PandoraJewelry.IoC.WebJobs library provides dependency injection helpers for StructureMap used with Azure WebJobs",
+  "version": "2.0.0-*",
+  "description": "The PandoraJewelry.IoC.WebJobs library provides dependency injection helpers for used with Azure WebJobs when using StructureMap",
   "authors": [ "PandoraJewelry" ],
-  "tags": [ "Azure", "WebJobs", "StructureMap" ],
-  "projectUrl": "https://github.com/PandoraJewelry/IoC.WebJobs",
-  "licenseUrl": "https://github.com/PandoraJewelry/IoC.WebJobs/blob/master/LICENSE",
+  "tags": [ "Azure", "WebJobs", "StructureMap", "IoC" ],
+  "projectUrl": "https://github.com/PandoraJewelry/IoC",
+  "licenseUrl": "https://github.com/PandoraJewelry/IoC/blob/master/LICENSE",
+
   "frameworks": {
     "net46": {
       "frameworkAssemblies": {
