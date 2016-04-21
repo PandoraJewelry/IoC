@@ -8,11 +8,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IoC.WebJobs")]
-[assembly: AssemblyDescription("The PandoraJewelry.IoC.WebJobs library provides dependency injection helpers for used with Azure WebJobs when using StructureMap")]
+[assembly: AssemblyTitle("Pandora.IoC.WebJobs")]
+[assembly: AssemblyDescription("The Pandora.IoC.WebJobs library provides dependency injection helpers for used with Azure WebJobs when using StructureMap")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("PandoraJewelry")]
-[assembly: AssemblyProduct("IoC.WebJobs")]
+[assembly: AssemblyProduct("Pandora.IoC.WebJobs")]
 [assembly: AssemblyCopyright("Copyright © Pandora 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -25,4 +25,4 @@ using System.Runtime.InteropServices;
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("28c9cad7-0130-400f-a4fe-a97bc53c4d89")]
 
-[assembly: AssemblyVersion("2.0.0.1")]
+[assembly: AssemblyVersion("2.0.0.2")]
