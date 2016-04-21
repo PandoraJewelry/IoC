@@ -1,4 +1,7 @@
-﻿using System.Reflection;
+﻿// Copyright (c) PandoraJewelry. All rights reserved.
+// Licensed under the MIT License. See License.txt in the project root for license information.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,7 +9,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("IoC.WebJobs")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("The PandoraJewelry.IoC.WebJobs library provides dependency injection helpers for used with Azure WebJobs when using StructureMap")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("PandoraJewelry")]
 [assembly: AssemblyProduct("IoC.WebJobs")]
@@ -21,3 +24,5 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("28c9cad7-0130-400f-a4fe-a97bc53c4d89")]
+
+[assembly: AssemblyVersion("2.0.0.1")]

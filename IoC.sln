@@ -1,16 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Pandora.IoC.WebJobs", "Pandora.IoC.WebJobs\Pandora.IoC.WebJobs.xproj", "{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pandora.IoC.WebJobs", "Pandora.IoC.WebJobs\Pandora.IoC.WebJobs.csproj", "{DB861E3E-B7D3-413C-918B-F0EC6E5819AC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE03D054-A96F-4A09-B9A0-A13244AE6370}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Pandora.IoC", "Pandora.IoC\Pandora.IoC.xproj", "{C5149616-E933-458B-88F3-115CB843A273}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pandora.IoC", "Pandora.IoC\Pandora.IoC.csproj", "{8775D3DF-8F59-4FE0-A33E-CD45B830E4CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28C9CAD7-0130-400F-A4FE-A97BC53C4D89}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C5149616-E933-458B-88F3-115CB843A273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C5149616-E933-458B-88F3-115CB843A273}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C5149616-E933-458B-88F3-115CB843A273}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C5149616-E933-458B-88F3-115CB843A273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB861E3E-B7D3-413C-918B-F0EC6E5819AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB861E3E-B7D3-413C-918B-F0EC6E5819AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB861E3E-B7D3-413C-918B-F0EC6E5819AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB861E3E-B7D3-413C-918B-F0EC6E5819AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8775D3DF-8F59-4FE0-A33E-CD45B830E4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8775D3DF-8F59-4FE0-A33E-CD45B830E4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8775D3DF-8F59-4FE0-A33E-CD45B830E4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8775D3DF-8F59-4FE0-A33E-CD45B830E4CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

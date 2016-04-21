@@ -1,4 +1,7 @@
-﻿using System.Reflection;
+﻿// Copyright (c) PandoraJewelry. All rights reserved.
+// Licensed under the MIT License. See License.txt in the project root for license information.
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -6,9 +9,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Pandora.IoC")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("The Pandora.IoC Library provides basic IoC interfaces for general tasks that otherwise lack them.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Pandora")]
+[assembly: AssemblyCompany("PandoraJewelry")]
 [assembly: AssemblyProduct("Pandora.IoC")]
 [assembly: AssemblyCopyright("Copyright © Pandora 2016")]
 [assembly: AssemblyTrademark("")]
@@ -21,3 +24,5 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("c5149616-e933-458b-88f3-115cb843a273")]
+
+[assembly: AssemblyVersion("1.0.0.1")]
